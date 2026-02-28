@@ -1,4 +1,4 @@
-export const APIURL = "https://p007-backend-8oge.onrender.com/";
+export const APIURL = "/https://p007-backend-8oge.onrender.com/";
 export const IMGURL = import.meta.env.BASE_URL;
   
 export function callApi(rmethod, url, data, responseHandler)
